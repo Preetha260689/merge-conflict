@@ -10,5 +10,14 @@ feaature2()
   //Sample Code for Feature 2
 }
 
+Initial Function2()
+{
+ //Sample Code
+}
+
+security patch()
+{
+//sample code
+}
 
 }
