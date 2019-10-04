@@ -16,7 +16,7 @@ Initial Function2()
 {
  //Sample Code
 }
->>>>>>> master
+
 
 security patch()
 {
